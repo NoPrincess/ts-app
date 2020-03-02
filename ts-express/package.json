@@ -18,7 +18,8 @@
     "http-errors": "~1.6.3",
     "jade": "~1.11.0",
     "morgan": "~1.9.1",
-    "mysql": "^2.18.1"
+    "mysql": "^2.18.1",
+    "constantinople": ">=3.1.1"
   },
   "devDependencies": {
     "@types/cookie-parser": "^1.4.2",
@@ -31,6 +32,7 @@
     "nodemon": "^2.0.2",
     "shelljs": "^0.8.3",
     "ts-node": "^8.6.2",
-    "typescript": "^3.8.3"
+    "typescript": "^3.8.3",
+    "clean-css": ">=4.1.11"
   }
 }
